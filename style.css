@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f8f9fa;
+  color: #212529;
+}
+
+.hero-section {
+  background: linear-gradient(135deg, #0d6efd, #111827);
+  padding: 120px 0;
+}
+
+.page-header {
+  background: linear-gradient(135deg, #0d6efd, #111827);
+  color: white;
+  padding: 70px 0;
+}
+
+.card {
+  border: none;
+  border-radius: 12px;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  transition: 0.3s;
+}
+
+.profile-box {
+  background-color: white;
+  border-radius: 12px;
+  padding: 60px 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.skill-card {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  font-weight: bold;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+footer {
+  margin-top: 50px;
+}
